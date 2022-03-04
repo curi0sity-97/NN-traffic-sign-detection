@@ -6,6 +6,9 @@ Notebook for training and evaluating several types of neural networks on the tas
 - Convolutional Neural Networks
 - Autoencoders for better efficiency
 
+## Results
+<img src="results.PNG" width="700">
+
 @Credits to [Valentyn Sichkar]("https://www.kaggle.com/valentynsichkar/traffic-signs-preprocessed")
 for providing the dataset
 
